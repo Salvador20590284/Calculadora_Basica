@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="bienvenido_a_la_calculadora">Bienvenido a la calculadora!</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+    <string name="escribe_el_primer_numero">Escribe el primer numero</string>
+    <string name="escribe_el_segundo_numero">Escribe el segundo numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="_00">00</string>
+    <string name="_0">0</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="jesus_guillermo_martinez_cerqueda">Jesus Guillermo Martinez Cerqueda</string>
+
+</resources>
